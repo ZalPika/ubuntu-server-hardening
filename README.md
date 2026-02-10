@@ -187,9 +187,9 @@ sudo usg fix cis_level1_server
 
 ## Research
 
-This guide is based on the academic project *Secure Network - Project04 LNXE-Corp* (February 2025), which demonstrates a layered security approach for a small company's Linux server infrastructure.
+This guide is based on an academic project *Secure Network* (February 2025), which demonstrates a layered security approach for a small company's Linux server infrastructure.
 
-Full report available upon request.
+Full report available under research.
 
 ---
 
